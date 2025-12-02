@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   background: #030712;
+}
+.container{
+    max-width: 1280px;
+    width: 100%;
+   margin: 0 auto;
+   a{
+    color: #fff;
+   }
+   
+}
+ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 50px;
+    
+}
+a{
+    text-decoration: none;
+}
+.div{
+    
+     display: flex;
+    justify-content: space-between;
+    
+    
+}
+.he{
+    align-items: center;
+    display: flex;
+    gap: 100px;
+
+     width: 70%;
+    color:#fff;
+    margin-left: 15%;
+    margin-top: 100px;
+}
+.he3{
+    color:#fff;
+    margin-top: -50px;
+     width: 70%;
+    margin-left: 15%;
+}
