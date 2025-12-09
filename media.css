@@ -1,0 +1,29 @@
+@media( max-width:720px){
+
+.nav_lists{
+   display: none;
+}
+
+.nenu_icon{
+    display: block;
+}
+
+.header{
+    display: block;
+}
+.header_right{
+     display: nooe;
+
+}
+.header_left{
+    h1{
+        font-size: 36px;
+        font-weight: 600;
+    }
+}
+.header_img img{
+    display: block;
+    width: 240px;
+    margin: 0 auto;
+}
+}

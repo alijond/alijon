@@ -31,7 +31,7 @@ ul{
 a{
     text-decoration: none;
 }
-.div{
+.nenu_icon{
     
      display: flex;
     justify-content: space-between;
@@ -42,7 +42,7 @@ a{
     font-weight: 700;
     font-size: 30px;
 }
-.he{
+.header{
     align-items: center;
     display: flex;
     gap: 100px;
@@ -69,4 +69,14 @@ a{
      display: flex;
      margin-top: 48px;
      margin-left: 15%;
+}
+.m1{
+    display: flex;
+    gap: 100px;
+    color: #fff;
+    margin-top: 100px;
+    h1{
+        font-size: 30px;
+        font-weight: 600;
+    }
 }
