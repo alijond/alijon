@@ -80,3 +80,18 @@ a{
         font-weight: 600;
     }
 }
+.container{
+    text-align: center;
+    color: #fff;
+}
+.f2{
+    button{
+        border-radius: 25px;
+        background: #030712;
+        color: #fff;
+        margin-top: 100px;
+    }
+
+
+    
+}
